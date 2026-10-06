@@ -1,7 +1,7 @@
 // ===========================================================================
 // CONFIGURAÇÕES DO ESPAÇO E TABELA DE SERVIÇOS
 // Arquivo gerado automaticamente pelo Painel Administrativo
-// ===========================================================================
+// =========================================================================
 
 const CONFIG_ESPACO = {
   nomeEspaco: "Del Oliveira - Spa da Pele",
